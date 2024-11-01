@@ -1,3 +1,3 @@
 # IT1600 Msrkdown Pages
 
--[PC Parts](MyList.MD)
+-[PC Parts](MyList.md)
