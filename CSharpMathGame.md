@@ -1,10 +1,9 @@
-# My C# Project: MathGame
+# Math Game
+- Simple C# Math Game
+- Coded for IT 2040 Challenge
 
-This project is a simple C# math game.
 
-## Project Structure
-
--**Program.cs**:
+```C#
 using System.Reflection.Metadata;
 using System.Security.Cryptography.X509Certificates;
 
@@ -189,3 +188,7 @@ class Program
     }
 
 }
+```
+## [Back to Home](README.md)
+
+## [Visit My PC Specs](MyList.md)
