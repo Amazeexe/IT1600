@@ -1,3 +1,3 @@
-# IT1600 Msrkdown Pages
+# IT1600 Markdown Pages
 
 -[PC Parts](MyList.md)
